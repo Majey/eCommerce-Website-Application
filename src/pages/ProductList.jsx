@@ -85,13 +85,13 @@ const ProductList = () => {
                     </Select>
                 </Filter>
 
-                <Filter><FilterText>Sort Products:</FilterText>
-                    <Select onChange = { (e) => setSort(e.target.value) }>
+                <Filter>
+                    <FilterText>Sort Products:</FilterText>
+                    <Select onChange = {(e) => setSort(e.target.value)}>
                         <Options value = "newest">Newest</Options>
                         <Options value = "asc">Price (asc)</Options>
                         <Options value = "desc">Price (desc)</Options>
                     </Select>
-                
                 </Filter>
             </FilterContainer>
 

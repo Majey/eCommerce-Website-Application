@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 const Container = styled.div`
     height: 60vh;
-    background-color: gold;
+    background-color: #FFA500;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,7 +25,7 @@ const InputContainer = styled.div`
     background-color: white;
     display: flex;
     justify-content: space-between;
-    border: 1px solid lightgray;
+    border: 1px solid white;
 `;
 const Input = styled.input`
     border: none;
@@ -35,7 +35,7 @@ const Input = styled.input`
 const Button = styled.button`
     flex: 1;
     border: none;
-    background-color: gold;
+    background-color: #FFA500;
     color: white;
     cursor: pointer;
 `;

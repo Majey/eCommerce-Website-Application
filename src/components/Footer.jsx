@@ -66,9 +66,10 @@ const Footer = () => {
             <Left>
                 <Logo>MajesTech.</Logo>
                 <Desc>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-                    laboris nisi ut aliquip ex ea commodo consequat.
+                    MajesTech Kenya is your number one Online Shopping solution. You can purchase all your mobile phones, 
+                    tablets, computers & laptops, women's fashion, men's fashion and more online and have them 
+                    delivered to you. MajesTech has payment options that suit everyone, and we have a payment-on-delivery 
+                    option for extra convenience.
                 </Desc>
                 <SocialContainer>
                     <SocialIcon color="3B5999">

@@ -61,7 +61,7 @@ const InfoContainer = styled.div`
 
 const Title = styled.h1`
     font-size: 71px;
-    color: gold;
+    color: #FFA500;
 `;
 
 const Desc = styled.p`

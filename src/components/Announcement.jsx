@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 const Container = styled.div`
     height: 40px;
-    background-color: gold;
+    background-color: #FFA500;
     color: white;
     display: flex;
     justify-content: center;
