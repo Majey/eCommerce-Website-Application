@@ -155,7 +155,9 @@ const Product = () => {
                     <Desc>
                         {product.desc}
                     </Desc>
+
                     <Price> {product.price} </Price>
+
                     <FilterContainer>
                         <Filter>
                             <FilterTitle>Color</FilterTitle>
@@ -192,7 +194,5 @@ const Product = () => {
         </Container>
     )
 }
-
-
 
 export default Product
