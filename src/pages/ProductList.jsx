@@ -6,6 +6,7 @@ import Newsletter from "../components/Newsletter";
 import Footer from "../components/Footer";
 import { useLocation } from "react-router-dom";
 import { useState } from "react";
+import { mobile } from "../responsive";
 // import { red } from "@material-ui/core/colors";
 
 const Container = styled.div`
@@ -23,6 +24,11 @@ const FilterContainer = styled.div`
 
 const Filter = styled.div`
     margin: 20px;
+    ${mobile({
+        margin: "0px 20px",
+        display: "flex",
+        flexDirection: "column"
+    })}
 `;
 
 const FilterText = styled.span`
