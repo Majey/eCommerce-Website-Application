@@ -34,7 +34,7 @@ A MERN stack e-commerce web application designed to simulate real-world online s
 ### License ###
 Licensed under the MIT License
 
-Copyright (c) 2023 MajesCreatives, [Kevin Erick](https://github.com/Majey "Named link title")
+Copyright (c) 2023 MajesTech Creatives, [Kevin Erick](https://github.com/Majey "Named link title")
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
