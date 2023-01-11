@@ -11,6 +11,7 @@ A MERN stack e-commerce web application designed to simulate real-world online s
 * [License](#heading-1 "Goto heading-1")
 
 ### Technologies used ###
+![image](https://user-images.githubusercontent.com/36947647/211770685-a2204f80-3893-4654-8f34-da1e44f29663.png)
 ### Architecture ###
 ### Demo ###
 ### Installation ###
