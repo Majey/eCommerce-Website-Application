@@ -1,6 +1,7 @@
 # eCommerce-Website-Application
 
-A MERN stack e-commerce web application designed to simulate real-world online shopping experience.
+A MERN stack e-commerce web application designed to simulate real-world online shopping experience. Follow the link to my blog post narrating the details of my experience while working on this project.
+* [My Journey: Ecommerce Website Application building process](https://medium.com/@majesticmajey/my-journey-ecommerce-website-application-building-process-40a759e76e12 "Named link title")
 
 # Table of content #
 * [Technologies used](#heading-1 "Goto Technologies used")
